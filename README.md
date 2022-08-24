@@ -1,16 +1,16 @@
-### Hi there 👋
+![image](https://user-images.githubusercontent.com/112024588/186523970-0148ac88-368d-4245-b150-6ae3729b2112.png)
 
-<!--
-**mykolaklesh/mykolaklesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 
+### Some facts about me:
+- 🖥 I build outstanding web applications with React and Node.js stack.
 
-Here are some ideas to get you started:
+- 😼Enjoy working with a wide variety of technologies, resolve complex tasks with TypeScript, React, Redux, and Next.js. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😈Design maniac 
+Material UI and Styled Components should be perfect.
+
+### My other strong sides: 
+- 🔥proactive communication skills
+- 🔥great teamwork
+- 🔥independence - take ownership of the project 
+- 🔥ready to take responsibility for complex features and use new approaches to solve challenges.
